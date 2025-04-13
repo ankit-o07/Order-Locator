@@ -47,6 +47,7 @@ Create a `.env` file in the root directory:
 
 ```env
 GOOGLE_MAPS_API_KEY=your_google_maps_api_key_here
+MONGO_URL=MongoDB URL
 ```
 
 ### 5. Start MongoDB
@@ -90,8 +91,8 @@ order-locator/
 ```
 
 ## Demo
-![Input(Page 1)](<Screenshot 2025-04-13 194904-1.png>) 
-![Output(Page 2)](<Screenshot 2025-04-13 194930-1.png>)
+![Input(Page 1)](<Screenshot 2025-04-13 194930-1.png>)
+![OutPut(Page 2)](<Screenshot 2025-04-13 194904-1.png>)
 ---
 
 
