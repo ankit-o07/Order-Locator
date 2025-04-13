@@ -27,7 +27,7 @@ This project is a simple FastAPI web application that collects order details thr
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/order-locator.git
+git clone https://github.com/ankit-o07/Order-Locator.git
 cd order-locator
 ```
 
@@ -89,16 +89,10 @@ order-locator/
     └── (optional CSS or assets)
 ```
 
+## Demo
+![Input(Page 1)](<Screenshot 2025-04-13 194904-1.png>) 
+![Output(Page 2)](<Screenshot 2025-04-13 194930-1.png>)
 ---
 
-## 🧑‍💻 Author
 
-**Your Name**  
-📧 your@email.com  
-🌐 [your-portfolio.com](https://your-portfolio.com)
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
